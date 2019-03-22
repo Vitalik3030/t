@@ -42,3 +42,7 @@ v.ru-v1-a1.m3u8
 http://91.231.219.145:80/tv_mgm_HD/video.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1,Родное кино
 http://109.95.47.229:809/15/index.m3u8
+#EXTINF:-1,Футбол 1 Украина
+http://185-8-178-140.livesports24.online/uafootballua1.m3u8
+#EXTINF:0,Футбол 2 Украина
+http://185-8-178-140.livesports24.online/fooootball2.m3u8
